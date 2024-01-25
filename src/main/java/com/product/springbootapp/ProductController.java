@@ -8,7 +8,7 @@ public class ProductController {
 
     @GetMapping("/")
     public String index() {
-        return "index.html";
+        return "Hola Mundo!";
     }
 
 }
