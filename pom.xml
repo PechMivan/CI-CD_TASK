@@ -10,6 +10,7 @@
 	<groupId>com.product</groupId>
 	<artifactId>springboot-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>springboot-app</name>
 	<description>Project using SpringBoot</description>
 	<properties>
