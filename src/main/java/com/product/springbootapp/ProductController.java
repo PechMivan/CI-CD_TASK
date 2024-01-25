@@ -8,7 +8,7 @@ public class ProductController {
 
     @GetMapping("/")
     public String index() {
-        return "Greetings from Spring Boot!";
+        return "index.html";
     }
 
 }
