@@ -1,1 +1,10 @@
-This is a readmefile!
+Credentials for roles:
+
+- Admin -
+
+User : administrator
+Password : pass
+
+- Developer -
+User : developer
+Password : 123 
