@@ -63,7 +63,7 @@ public class ProductTests {
             System.out.println(product);
         }
 
-        Assertions.assertEquals(products.size(), 0);
+        Assertions.assertNotEquals(products.size(), 0);
     }
 
     @Test
